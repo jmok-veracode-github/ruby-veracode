@@ -7,6 +7,6 @@ An example ruby project to demonstrate [srcclr](https://www.srcclr.com) scans.
 ```
 brew tap srcclr/srcclr
 brew install srcclr
-srcclr activate
+srcclr activate 
 srcclr scan --url https://github.com/srcclr/example-ruby
 ```
